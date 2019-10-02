@@ -2,7 +2,7 @@
 
 import matplotlib.pyplot as plt
 
-from cirq.vis.examples import bristlecone_heatmap_example
+from examples import bristlecone_heatmap_example
 
 
 class TestBristleconeHeatmapExample:
